@@ -30,6 +30,9 @@
 ## Fazer o push (envio) para o repositório remoto (com -u somente 1x)
 `git push -u origin main`
 
+## Recuperar o histórico do respositório remoto
+`git pull`
+
 ## Para mais informações de comandos:
 https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
 
