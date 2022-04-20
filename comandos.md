@@ -1,6 +1,6 @@
 # Principais comandos git
 
-## inicializar
+## inicializar (somente 1x)
 `git init`
 
 ## Adiciona o arquivo ao git (coloca na memória)
@@ -18,7 +18,7 @@
 ## Realizar um commit com uma mensagem
 `git commit -m "mensagem desejada"`
 
-## Mudar o nome da branch de master pra main (basta fazer)
+## Mudar o nome da branch de master pra main  (somente 1x)
 `git branch -M main`
 
 ## Fazer clone de um repositório
